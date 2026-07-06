@@ -10,7 +10,7 @@ A modular Python framework designed to handle a single elimination bracket tourn
 
 ## Tech Stack
 - **Language:** Python 3
-- **Libraries:** Pandas, NumPy, Math, Random
+- **Libraries:** Pandas, NumPy, Math, Random, Discord
 
 ## Commands
 
